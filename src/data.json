@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "_id": "product1",
+      "image": "/Images/product1.jpg",
+      "title": "Armani White",
+      "description": "Armani White TShirt",
+      "availableSizes": ["X", "L", "XL", "XXL"],
+      "price": 12
+    },
+
+    {
+      "_id": "product2",
+      "image": "/Images/product2.jpg",
+      "title": "Tiger Grey",
+      "description": "Danger Tiger",
+      "availableSizes": ["X", "L"],
+      "price": 14.9
+    },
+
+    {
+      "_id": "product3",
+      "image": "/Images/product3.jpg",
+      "title": "Cute Cat",
+      "description": "Grey Cat Tshirt",
+      "availableSizes": ["X", "M", "L"],
+      "price": 13
+    },
+
+    {
+      "_id": "product4",
+      "image": "/Images/product4.jpg",
+      "title": "Blut Shirt",
+      "description": "Born On The Streets",
+      "availableSizes": ["XL"],
+      "price": 22
+    },
+
+    {
+      "_id": "product5",
+      "image": "/Images/product5.jpg",
+      "title": "3D Short Sleeve",
+      "description": "Short Sleeve",
+      "availableSizes": ["X", "L", "XL"],
+      "price": 10
+    },
+
+    {
+      "_id": "product6",
+      "image": "/Images/product6.jpg",
+      "title": "Minsk Bangla",
+      "description": "Man Bangla Grey cool",
+      "availableSizes": ["XL"],
+      "price": 42
+    },
+    {
+      "_id": "product7",
+      "image": "/Images/product7.jpg",
+      "title": "Diamond Blue",
+      "description": "Man Diamond Navy",
+      "availableSizes": ["XL", "XXL"],
+      "price": 50
+    },
+    {
+      "_id": "product8",
+      "image": "/Images/product8.jpg",
+      "title": "Grown Brick",
+      "description": "Man best Grown Tshirt",
+      "availableSizes": ["M"],
+      "price": 14
+    }
+    
+  ]
+}
